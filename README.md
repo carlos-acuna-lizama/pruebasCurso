@@ -1,2 +1,0 @@
-# pruebasCurso
-Created with CodeSandbox
